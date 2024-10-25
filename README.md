@@ -1,16 +1,16 @@
 # Learning
 
-Collection framework and Stream api
-DataStructure
-Object Orientated Design skills
-Solid Knowledge of Core Java, J2EE
-Core Java: Threading, Collections, Synchronization, Locking, annotations, Generics
-Spring Core, Batch
-Able to write SQL Queries and Analyze data
-Good knowledge of design patterns.
-UML Modeling Diagram
-Application/Web server experience
-Build scripts like Ant, Maven
+-  Collection framework and Stream api
+-  DataStructure
+-  Object Orientated Design skills
+-  Solid Knowledge of Core Java, J2EE
+-  Core Java: Threading, Collections, Synchronization, Locking, annotations, Generics
+-  Spring Core, Batch
+-  Able to write SQL Queries and Analyze data
+-  Good knowledge of design patterns.
+-  UML Modeling Diagram
+-  Application/Web server experience
+-  Build scripts like Ant, Maven
 
 
 
@@ -24,8 +24,7 @@ Build scripts like Ant, Maven
 		Java Visitor Pattern
 
 
-Secure Coding Practice Guidelines:
-
+-  Secure Coding Practice Guidelines:
 https://security.berkeley.edu/secure-coding-practice-guidelines
 	
 
