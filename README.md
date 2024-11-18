@@ -28,3 +28,6 @@
 https://security.berkeley.edu/secure-coding-practice-guidelines
 	
 
+# Certification
+- Git Hub Certificate
+- AI Specialist \ Generative AI \ Promt Engineering  
