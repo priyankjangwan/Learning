@@ -11,6 +11,8 @@
 -  UML Modeling Diagram
 -  Application/Web server experience
 -  Build scripts like Ant, Maven
+-  SOLID
+-  AOP and Cross-cutting
 
 
 
