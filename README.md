@@ -13,11 +13,11 @@
 -  Build scripts like Ant, Maven
 -  SOLID
 -  AOP and Cross-cutting
+-  cross cutting concerns and how to address those using Spring framework
 
 
 
-
-:- Talk about design patterns in ur project and t was chosen.
+:- Talk about design patterns in ur project and why it was chosen.
 
 	example : canery way to deployment. 
 		Model view -controller pattern ,
